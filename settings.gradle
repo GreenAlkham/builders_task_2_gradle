@@ -1,0 +1,5 @@
+rootProject.name = 'builders_task_2_gradle'
+include 'db'
+include 'service'
+include 'api'
+
